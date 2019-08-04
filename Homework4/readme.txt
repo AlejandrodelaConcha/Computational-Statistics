@@ -1,0 +1,1 @@
+The goal of the last homework was to introduce techniques that improve the performance of MCMC methods.The studied techniques were: adaptive methods, parallel tempering and block simulation strategies.  
